@@ -1,2 +1,2 @@
-# hospital!
+# hospital
 Automation system for hospital
